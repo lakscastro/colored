@@ -1,4 +1,4 @@
-package io.lakscastro.colored
+package io.alexrintt.colored
 
 import io.flutter.embedding.android.FlutterActivity
 
